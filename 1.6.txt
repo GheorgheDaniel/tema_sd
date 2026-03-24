@@ -1,0 +1,6 @@
+O solutie care cred ca merge e ca pot sa imi impart sirul in subsecvente de lungime K. 
+Apoi, pentru fiecare din aceste subsecvente, pot calcula pentru fiecare pozitie i
+f(1...i) si f(i...K), adica rezultatul functiei aplicata pe sufix / pe prefix. 
+Si ma rog acum pot practic raspunde la orice query-uri in O(1) si in orice ordine (pt ca 
+ma rog pentru ca functia e asociativa acum pot combina o precalculare pe sufix cu una pe prefix
+si imi da rezultatul pe toata subsecventa) chestie care e chiar cool. 
